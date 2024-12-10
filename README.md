@@ -1,0 +1,2 @@
+# LVQ
+KODING LVQ 
